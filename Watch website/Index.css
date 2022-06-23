@@ -1,0 +1,118 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.Subheading{
+    color:#8d8f92 ;
+}
+
+.heading{
+    color: aliceblue;
+}
+
+.head{
+    padding: 45px;
+    justify-content: space-between;
+    padding-left: 0;
+    padding-right: 1000px;
+    text-size-adjust: 80px;
+}
+
+.ctn{
+    background-color: #bebfc1;
+    border-radius: 30px;
+    padding: 8px 15px;
+    text-align: justify;
+            
+}
+
+.header1{
+    width: 100vw;
+    height: 100vh;
+    background-image: url("/Img.png");
+    background-position: bottom;
+    background-size: cover;
+    display: flex;
+    align-items: top;
+    justify-content: center;
+    padding-top: 80px;
+}
+
+#head2{
+    padding-top: 60px;
+}
+
+
+.header2-1{
+    width: 100vw;
+    height: 50vh;
+    background-color:#f1f1f1;
+    background-image: url("https://cdn.shopify.com/s/files/1/0057/8938/4802/files/2_a25aff7a-b5c4-4565-a111-6e1ce2d5b5f0.png?v=1624268771");
+    background-position: top left;
+    background-size: 250px 250px;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: top;
+    justify-content: center;
+}
+.header2-2{
+    width: 100vw;
+    height: 50vh;
+    background-color:#f1f1f1;
+    background-image: url("https://cdn.shopify.com/s/files/1/0997/6284/products/NoisePulse1stImageNew_5_1024x.png?v=1644404011");
+    background-position: top right;
+    background-size: 250px 250px;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: top;
+    justify-content: center;
+}
+.header2-3{
+    width: 100vw;
+    height: 50vh;
+    background-color:#f1f1f1;
+    background-image: url("https://www.sathya.in/media/53750/catalog/noise-watch-colorfit-pro-2-oxy-1.png");
+    background-position: top left;
+    background-size: 250px 250px;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: top;
+    justify-content: center;
+}
+
+
+
+.head3{
+    padding: 45px;
+    justify-content: space-between;
+    padding-right: 0;
+    padding-left: 500px;
+    text-size-adjust: 80px;
+}
+
+
+.header3{
+    width: 100vw;
+    height: 100vh;
+    background-image: url("/Img2.png");
+    background-position: bottom;
+    background-size: cover;
+    display: flex;
+    align-items: top;
+    justify-content: center;
+}
+
+#Product{
+    position: absolute;
+    padding-top: 50px;
+    
+}
+
+.h{
+    align-items: center;
+    justify-content: center;
+    padding-top: 200px;
+    
+}
